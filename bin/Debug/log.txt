@@ -1,0 +1,7486 @@
+GameUpdate
+{
+  "time": 7,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 96.21,
+          "y": 84.0,
+          "angle": 0.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 96.21,
+          "y": 184.0,
+          "angle": 0.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 96.21,
+          "y": 284.0,
+          "angle": 0.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 96.21,
+          "y": 384.0,
+          "angle": 0.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 96.21,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 30.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 795.93,
+          "y": 84.0,
+          "angle": 180.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 795.93,
+          "y": 184.0,
+          "angle": 180.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 795.93,
+          "y": 284.0,
+          "angle": 180.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 795.93,
+          "y": 384.0,
+          "angle": 180.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 795.93,
+          "y": 484.0,
+          "angle": 180.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 0
+}
+MyBot: 795,93, 84 , angle: 180
+EnemyBot: 96,21, 84
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 795,93, 184 , angle: 180
+EnemyBot: 96,21, 184
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 795,93, 284 , angle: 180
+EnemyBot: 96,21, 284
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 795,93, 384 , angle: 180
+EnemyBot: 96,21, 384
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 795,93, 484 , angle: 180
+EnemyBot: 96,21, 484
+AngleToEnemy: 180
+Between angle: 0
+Command
+{
+  "cmdId": 1,
+  "bots": [
+    {
+      "id": 6,
+      "x": 795.93,
+      "y": 84.0,
+      "angle": 180.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 7,
+      "x": 795.93,
+      "y": 184.0,
+      "angle": 180.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 8,
+      "x": 795.93,
+      "y": 284.0,
+      "angle": 180.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 9,
+      "x": 795.93,
+      "y": 384.0,
+      "angle": 180.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 10,
+      "x": 795.93,
+      "y": 484.0,
+      "angle": 180.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 420,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 122.13,
+          "y": 84.0,
+          "angle": 0.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 122.13,
+          "y": 184.0,
+          "angle": 0.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 122.13,
+          "y": 284.0,
+          "angle": 0.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 122.13,
+          "y": 384.0,
+          "angle": 0.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 122.13,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 180.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 791.64,
+          "y": 84.0,
+          "angle": 180.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 791.64,
+          "y": 184.0,
+          "angle": 180.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 791.64,
+          "y": 284.0,
+          "angle": 180.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 791.64,
+          "y": 384.0,
+          "angle": 180.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 791.64,
+          "y": 484.0,
+          "angle": 180.0,
+          "speed": 30.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 1
+}
+MyBot: 791,64, 84 , angle: 180
+EnemyBot: 122,13, 84
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 791,64, 184 , angle: 180
+EnemyBot: 122,13, 184
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 791,64, 284 , angle: 180
+EnemyBot: 122,13, 284
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 791,64, 384 , angle: 180
+EnemyBot: 122,13, 384
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 791,64, 484 , angle: 180
+EnemyBot: 122,13, 484
+AngleToEnemy: 180
+Between angle: 0
+Command
+{
+  "cmdId": 2,
+  "bots": [
+    {
+      "id": 6,
+      "x": 791.64,
+      "y": 84.0,
+      "angle": 180.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 7,
+      "x": 791.64,
+      "y": 184.0,
+      "angle": 180.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 8,
+      "x": 791.64,
+      "y": 284.0,
+      "angle": 180.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 9,
+      "x": 791.64,
+      "y": 384.0,
+      "angle": 180.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 10,
+      "x": 791.64,
+      "y": 484.0,
+      "angle": 180.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 671,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 175.59,
+          "y": 84.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 175.59,
+          "y": 184.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 175.59,
+          "y": 284.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 175.59,
+          "y": 384.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 175.59,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 783.21,
+          "y": 84.0,
+          "angle": 180.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 783.21,
+          "y": 184.0,
+          "angle": 180.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 783.21,
+          "y": 284.0,
+          "angle": 180.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 783.21,
+          "y": 384.0,
+          "angle": 180.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 783.21,
+          "y": 484.0,
+          "angle": 180.0,
+          "speed": 90.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 2
+}
+MyBot: 783,21, 84 , angle: 180
+EnemyBot: 175,59, 84
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 783,21, 184 , angle: 180
+EnemyBot: 175,59, 184
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 783,21, 284 , angle: 180
+EnemyBot: 175,59, 284
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 783,21, 384 , angle: 180
+EnemyBot: 175,59, 384
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 783,21, 484 , angle: 180
+EnemyBot: 175,59, 484
+AngleToEnemy: 180
+Between angle: 0
+Command
+{
+  "cmdId": 3,
+  "bots": [
+    {
+      "id": 6,
+      "x": 783.21,
+      "y": 84.0,
+      "angle": 180.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 7,
+      "x": 783.21,
+      "y": 184.0,
+      "angle": 180.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 8,
+      "x": 783.21,
+      "y": 284.0,
+      "angle": 180.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 9,
+      "x": 783.21,
+      "y": 384.0,
+      "angle": 180.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 10,
+      "x": 783.21,
+      "y": 484.0,
+      "angle": 180.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 949,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 275.31,
+          "y": 84.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 275.31,
+          "y": 184.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 275.31,
+          "y": 284.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 275.31,
+          "y": 384.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 275.31,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 756.84,
+          "y": 84.0,
+          "angle": 180.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 756.84,
+          "y": 184.0,
+          "angle": 180.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 756.84,
+          "y": 284.0,
+          "angle": 180.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 756.84,
+          "y": 384.0,
+          "angle": 180.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 756.84,
+          "y": 484.0,
+          "angle": 180.0,
+          "speed": 180.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 3
+}
+MyBot: 756,84, 84 , angle: 180
+EnemyBot: 275,31, 84
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 756,84, 184 , angle: 180
+EnemyBot: 275,31, 184
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 756,84, 284 , angle: 180
+EnemyBot: 275,31, 284
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 756,84, 384 , angle: 180
+EnemyBot: 275,31, 384
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 756,84, 484 , angle: 180
+EnemyBot: 275,31, 484
+AngleToEnemy: 180
+Between angle: 0
+Command
+{
+  "cmdId": 4,
+  "bots": [
+    {
+      "id": 6,
+      "x": 756.84,
+      "y": 84.0,
+      "angle": 180.0,
+      "speed": 180.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 7,
+      "x": 756.84,
+      "y": 184.0,
+      "angle": 180.0,
+      "speed": 180.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 8,
+      "x": 756.84,
+      "y": 284.0,
+      "angle": 180.0,
+      "speed": 180.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 9,
+      "x": 756.84,
+      "y": 384.0,
+      "angle": 180.0,
+      "speed": 180.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 10,
+      "x": 756.84,
+      "y": 484.0,
+      "angle": 180.0,
+      "speed": 180.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 1194,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 363.87,
+          "y": 84.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 363.87,
+          "y": 184.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 363.87,
+          "y": 284.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 363.87,
+          "y": 384.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 363.87,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 709.5,
+          "y": 84.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 709.5,
+          "y": 184.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 709.5,
+          "y": 284.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 709.5,
+          "y": 384.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 709.5,
+          "y": 484.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 4
+}
+MyBot: 709,5, 84 , angle: 180
+EnemyBot: 363,87, 84
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 709,5, 184 , angle: 180
+EnemyBot: 363,87, 184
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 709,5, 284 , angle: 180
+EnemyBot: 363,87, 284
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 709,5, 384 , angle: 180
+EnemyBot: 363,87, 384
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 709,5, 484 , angle: 180
+EnemyBot: 363,87, 484
+AngleToEnemy: 180
+Between angle: 0
+Command
+{
+  "cmdId": 5,
+  "bots": [
+    {
+      "id": 6,
+      "x": 709.5,
+      "y": 84.0,
+      "angle": 180.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 7,
+      "x": 709.5,
+      "y": 184.0,
+      "angle": 180.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 8,
+      "x": 709.5,
+      "y": 284.0,
+      "angle": 180.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 9,
+      "x": 709.5,
+      "y": 384.0,
+      "angle": 180.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 10,
+      "x": 709.5,
+      "y": 484.0,
+      "angle": 180.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 1442,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 451.71,
+          "y": 84.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 451.71,
+          "y": 184.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 451.71,
+          "y": 284.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 451.71,
+          "y": 384.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 451.71,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 621.66,
+          "y": 84.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 621.66,
+          "y": 184.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 621.66,
+          "y": 284.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 621.66,
+          "y": 384.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 621.66,
+          "y": 484.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 5
+}
+MyBot: 621,66, 84 , angle: 180
+EnemyBot: 451,71, 84
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 621,66, 184 , angle: 180
+EnemyBot: 451,71, 184
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 621,66, 284 , angle: 180
+EnemyBot: 451,71, 284
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 621,66, 384 , angle: 180
+EnemyBot: 451,71, 384
+AngleToEnemy: 180
+Between angle: 0
+MyBot: 621,66, 484 , angle: 180
+EnemyBot: 451,71, 484
+AngleToEnemy: 180
+Between angle: 0
+Command
+{
+  "cmdId": 6,
+  "bots": [
+    {
+      "id": 6,
+      "x": 621.66,
+      "y": 84.0,
+      "angle": 180.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 7,
+      "x": 621.66,
+      "y": 184.0,
+      "angle": 180.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 8,
+      "x": 621.66,
+      "y": 284.0,
+      "angle": 180.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 9,
+      "x": 621.66,
+      "y": 384.0,
+      "angle": 180.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 10,
+      "x": 621.66,
+      "y": 484.0,
+      "angle": 180.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 1676,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 516.21,
+          "y": 83.68,
+          "angle": -148.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 516.21,
+          "y": 183.7,
+          "angle": -149.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 516.2,
+          "y": 284.27,
+          "angle": 150.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 516.2,
+          "y": 384.27,
+          "angle": 150.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 516.21,
+          "y": 483.68,
+          "angle": -148.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 557.36,
+          "y": 84.06,
+          "angle": 2.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 557.36,
+          "y": 184.06,
+          "angle": 2.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 557.36,
+          "y": 284.03,
+          "angle": 1.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 557.36,
+          "y": 384.03,
+          "angle": 1.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 557.36,
+          "y": 484.08,
+          "angle": 3.0,
+          "speed": 30.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 6
+}
+MyBot: 557,36, 84,06 , angle: 2
+EnemyBot: 516,21, 83,68
+AngleToEnemy: -179,470916710619
+Between angle: 178,529083289381
+MyBot: 557,36, 184,06 , angle: 2
+EnemyBot: 516,21, 183,7
+AngleToEnemy: -179,498761739329
+Between angle: 178,501238260671
+MyBot: 557,36, 284,03 , angle: 1
+EnemyBot: 516,2, 284,27
+AngleToEnemy: 179,665917608251
+Between angle: 178,665917608251
+MyBot: 557,36, 384,03 , angle: 1
+EnemyBot: 516,2, 384,27
+AngleToEnemy: 179,665917608251
+Between angle: 178,665917608251
+MyBot: 557,36, 484,08 , angle: 3
+EnemyBot: 516,21, 483,68
+AngleToEnemy: -179,443071931836
+Between angle: 177,556928068164
+Command
+{
+  "cmdId": 7,
+  "bots": [
+    {
+      "id": 6,
+      "x": 557.36,
+      "y": 84.06,
+      "angle": 2.0,
+      "speed": 30.0,
+      "cmd": "brake"
+    },
+    {
+      "id": 7,
+      "x": 557.36,
+      "y": 184.06,
+      "angle": 2.0,
+      "speed": 30.0,
+      "cmd": "brake"
+    },
+    {
+      "id": 8,
+      "x": 557.36,
+      "y": 284.03,
+      "angle": 1.0,
+      "speed": 30.0,
+      "cmd": "brake"
+    },
+    {
+      "id": 9,
+      "x": 557.36,
+      "y": 384.03,
+      "angle": 1.0,
+      "speed": 30.0,
+      "cmd": "brake"
+    },
+    {
+      "id": 10,
+      "x": 557.36,
+      "y": 484.08,
+      "angle": 3.0,
+      "speed": 30.0,
+      "cmd": "brake"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 1927,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 514.48,
+          "y": 81.99,
+          "angle": -118.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 514.45,
+          "y": 182.05,
+          "angle": -119.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 514.41,
+          "y": 285.9,
+          "angle": 120.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 514.41,
+          "y": 385.9,
+          "angle": 120.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 514.48,
+          "y": 481.99,
+          "angle": -118.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 564.85,
+          "y": 84.32,
+          "angle": 2.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 564.85,
+          "y": 184.32,
+          "angle": 2.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 564.86,
+          "y": 284.16,
+          "angle": 1.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 564.86,
+          "y": 384.16,
+          "angle": 1.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 564.85,
+          "y": 484.48,
+          "angle": 3.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 7
+}
+MyBot: 564,85, 84,32 , angle: 2
+EnemyBot: 514,48, 81,99
+AngleToEnemy: -177,351517391863
+Between angle: -179,351517391863
+MyBot: 564,85, 184,32 , angle: 2
+EnemyBot: 514,45, 182,05
+AngleToEnemy: -177,421159126553
+Between angle: -179,421159126553
+MyBot: 564,86, 284,16 , angle: 1
+EnemyBot: 514,41, 285,9
+AngleToEnemy: 178,024674835577
+Between angle: 177,024674835577
+MyBot: 564,86, 384,16 , angle: 1
+EnemyBot: 514,41, 385,9
+AngleToEnemy: 178,024674835577
+Between angle: 177,024674835577
+MyBot: 564,85, 484,48 , angle: 3
+EnemyBot: 514,48, 481,99
+AngleToEnemy: -177,169933534401
+Between angle: 179,830066465599
+Command
+{
+  "cmdId": 8,
+  "bots": [
+    {
+      "id": 6,
+      "x": 564.85,
+      "y": 84.32,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 7,
+      "x": 564.85,
+      "y": 184.32,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 8,
+      "x": 564.86,
+      "y": 284.16,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 9,
+      "x": 564.86,
+      "y": 384.16,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 10,
+      "x": 564.85,
+      "y": 484.48,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 2257,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 514.0,
+          "y": 78.85,
+          "angle": -58.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 513.91,
+          "y": 178.91,
+          "angle": -61.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 513.83,
+          "y": 289.02,
+          "angle": 61.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 513.83,
+          "y": 389.02,
+          "angle": 61.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 514.0,
+          "y": 478.85,
+          "angle": -61.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 568.0,
+          "y": 84.93,
+          "angle": 32.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 568.0,
+          "y": 184.93,
+          "angle": 32.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 568.02,
+          "y": 284.71,
+          "angle": 31.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 568.02,
+          "y": 384.71,
+          "angle": 31.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 567.98,
+          "y": 485.14,
+          "angle": 33.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 8
+}
+MyBot: 568, 84,93 , angle: 32
+EnemyBot: 514, 78,85
+AngleToEnemy: -173,575974463222
+Between angle: 154,424025536778
+MyBot: 568, 184,93 , angle: 32
+EnemyBot: 513,91, 178,91
+AngleToEnemy: -173,649344970404
+Between angle: 154,350655029596
+MyBot: 568,02, 284,71 , angle: 31
+EnemyBot: 513,83, 289,02
+AngleToEnemy: 175,45255455996
+Between angle: 144,45255455996
+MyBot: 568,02, 384,71 , angle: 31
+EnemyBot: 513,83, 389,02
+AngleToEnemy: 175,45255455996
+Between angle: 144,45255455996
+MyBot: 567,98, 485,14 , angle: 33
+EnemyBot: 514, 478,85
+AngleToEnemy: -173,353603410662
+Between angle: 153,646396589338
+Command
+{
+  "cmdId": 9,
+  "bots": [
+    {
+      "id": 6,
+      "x": 568.0,
+      "y": 84.93,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 7,
+      "x": 568.0,
+      "y": 184.93,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 8,
+      "x": 568.02,
+      "y": 284.71,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 9,
+      "x": 568.02,
+      "y": 384.71,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 10,
+      "x": 567.98,
+      "y": 485.14,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 2462,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 515.1,
+          "y": 77.11,
+          "angle": -28.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 514.93,
+          "y": 177.08,
+          "angle": -61.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 514.83,
+          "y": 290.82,
+          "angle": 31.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 514.83,
+          "y": 390.82,
+          "angle": 31.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 515.02,
+          "y": 477.01,
+          "angle": -61.0,
+          "speed": 30.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 569.45,
+          "y": 86.29,
+          "angle": 62.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 569.45,
+          "y": 186.29,
+          "angle": 62.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 569.49,
+          "y": 286.06,
+          "angle": 61.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 569.49,
+          "y": 386.06,
+          "angle": 61.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 569.41,
+          "y": 486.53,
+          "angle": 63.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 9
+}
+MyBot: 569,45, 86,29 , angle: 62
+EnemyBot: 515,1, 77,11
+AngleToEnemy: -170,412928767422
+Between angle: 127,587071232578
+MyBot: 569,45, 186,29 , angle: 62
+EnemyBot: 514,93, 177,08
+AngleToEnemy: -170,411614674136
+Between angle: 127,588385325864
+MyBot: 569,49, 286,06 , angle: 61
+EnemyBot: 514,83, 290,82
+AngleToEnemy: 175,023022100757
+Between angle: 114,023022100757
+MyBot: 569,49, 386,06 , angle: 61
+EnemyBot: 514,83, 390,82
+AngleToEnemy: 175,023022100757
+Between angle: 114,023022100757
+MyBot: 569,41, 486,53 , angle: 63
+EnemyBot: 515,02, 477,01
+AngleToEnemy: -170,071965788944
+Between angle: 126,928034211056
+Command
+{
+  "cmdId": 10,
+  "bots": [
+    {
+      "id": 6,
+      "x": 569.45,
+      "y": 86.29,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 7,
+      "x": 569.45,
+      "y": 186.29,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 8,
+      "x": 569.49,
+      "y": 286.06,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 9,
+      "x": 569.49,
+      "y": 386.06,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 10,
+      "x": 569.41,
+      "y": 486.53,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 2668,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 516.93,
+          "y": 76.21,
+          "angle": 2.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 518.23,
+          "y": 171.12,
+          "angle": -61.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 516.6,
+          "y": 291.82,
+          "angle": 1.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 516.6,
+          "y": 391.82,
+          "angle": 1.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 518.32,
+          "y": 471.06,
+          "angle": -61.0,
+          "speed": 90.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 570.36,
+          "y": 88.12,
+          "angle": 92.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 570.36,
+          "y": 188.12,
+          "angle": 92.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 570.43,
+          "y": 287.86,
+          "angle": 91.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 570.43,
+          "y": 387.86,
+          "angle": 91.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 570.29,
+          "y": 488.37,
+          "angle": 93.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 10
+}
+MyBot: 570,36, 88,12 , angle: 92
+EnemyBot: 516,93, 76,21
+AngleToEnemy: -167,43372849219
+Between angle: 100,56627150781
+MyBot: 570,36, 188,12 , angle: 92
+EnemyBot: 518,23, 171,12
+AngleToEnemy: -161,938448225666
+Between angle: 106,061551774334
+MyBot: 570,43, 287,86 , angle: 91
+EnemyBot: 516,6, 291,82
+AngleToEnemy: 175,792619094597
+Between angle: 84,7926190945967
+MyBot: 570,43, 387,86 , angle: 91
+EnemyBot: 516,6, 391,82
+AngleToEnemy: 175,792619094597
+Between angle: 84,7926190945967
+MyBot: 570,29, 488,37 , angle: 93
+EnemyBot: 518,32, 471,06
+AngleToEnemy: -161,578281930685
+Between angle: 105,421718069315
+Command
+{
+  "cmdId": 11,
+  "bots": [
+    {
+      "id": 6,
+      "x": 570.36,
+      "y": 88.12,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 7,
+      "x": 570.36,
+      "y": 188.12,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 8,
+      "x": 570.43,
+      "y": 287.86,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 9,
+      "x": 570.43,
+      "y": 387.86,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 10,
+      "x": 570.29,
+      "y": 488.37,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 2873,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 519.03,
+          "y": 76.28,
+          "angle": 2.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 527.31,
+          "y": 154.75,
+          "angle": -61.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 518.71,
+          "y": 291.85,
+          "angle": 1.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 518.71,
+          "y": 391.85,
+          "angle": 1.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 527.4,
+          "y": 454.68,
+          "angle": -61.0,
+          "speed": 180.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 570.2,
+          "y": 90.14,
+          "angle": 122.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 570.2,
+          "y": 190.14,
+          "angle": 122.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 570.3,
+          "y": 289.89,
+          "angle": 121.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 570.3,
+          "y": 389.89,
+          "angle": 121.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 570.09,
+          "y": 490.39,
+          "angle": 123.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 11
+}
+MyBot: 570,2, 90,14 , angle: 122
+EnemyBot: 519,03, 76,28
+AngleToEnemy: -164,844410634317
+Between angle: 73,1555893656835
+MyBot: 570,2, 190,14 , angle: 122
+EnemyBot: 527,31, 154,75
+AngleToEnemy: -140,472798530679
+Between angle: 97,5272014693212
+MyBot: 570,3, 289,89 , angle: 121
+EnemyBot: 518,71, 291,85
+AngleToEnemy: 177,824273228428
+Between angle: 56,8242732284275
+MyBot: 570,3, 389,89 , angle: 121
+EnemyBot: 518,71, 391,85
+AngleToEnemy: 177,824273228428
+Between angle: 56,8242732284275
+MyBot: 570,09, 490,39 , angle: 123
+EnemyBot: 527,4, 454,68
+AngleToEnemy: -140,087664253175
+Between angle: 96,9123357468247
+Command
+{
+  "cmdId": 12,
+  "bots": [
+    {
+      "id": 6,
+      "x": 570.2,
+      "y": 90.14,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 7,
+      "x": 570.2,
+      "y": 190.14,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 8,
+      "x": 570.3,
+      "y": 289.89,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 9,
+      "x": 570.3,
+      "y": 389.89,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 10,
+      "x": 570.09,
+      "y": 490.39,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 3132,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 2,
+          "x": 537.79,
+          "y": 110.33,
+          "angle": -126.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 529.55,
+          "y": 292.02,
+          "angle": -177.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 507.4,
+          "y": 407.39,
+          "angle": 179.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 547.37,
+          "y": 399.14,
+          "angle": 61.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 577.38,
+          "y": 102.69,
+          "angle": 82.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 568.72,
+          "y": 192.22,
+          "angle": 152.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 569.57,
+          "y": 292.03,
+          "angle": 3.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 568.58,
+          "y": 492.45,
+          "angle": 153.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 12
+}
+MyBot: 577,38, 102,69 , angle: 82
+EnemyBot: 537,79, 110,33
+AngleToEnemy: 169,077440063802
+Between angle: 87,0774400638017
+MyBot: 568,72, 192,22 , angle: 152
+EnemyBot: 537,79, 110,33
+AngleToEnemy: -110,691640866663
+Between angle: 97,3083591333367
+MyBot: 569,57, 292,03 , angle: 3
+EnemyBot: 529,55, 292,02
+AngleToEnemy: -179,985683213813
+Between angle: 177,014316786187
+MyBot: 568,58, 492,45 , angle: 153
+EnemyBot: 547,37, 399,14
+AngleToEnemy: -102,806123844849
+Between angle: 104,193876155151
+Command
+{
+  "cmdId": 13,
+  "bots": [
+    {
+      "id": 6,
+      "x": 577.38,
+      "y": 102.69,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 7,
+      "x": 568.72,
+      "y": 192.22,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 8,
+      "x": 569.57,
+      "y": 292.03,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 10,
+      "x": 568.58,
+      "y": 492.45,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 3336,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 2,
+          "x": 536.9,
+          "y": 108.56,
+          "angle": -96.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 527.62,
+          "y": 291.59,
+          "angle": -147.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 505.45,
+          "y": 407.75,
+          "angle": 149.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 548.18,
+          "y": 400.99,
+          "angle": 78.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 577.64,
+          "y": 104.7,
+          "angle": 112.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 566.91,
+          "y": 193.15,
+          "angle": -178.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 571.6,
+          "y": 292.16,
+          "angle": 33.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 566.75,
+          "y": 493.35,
+          "angle": -177.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 13
+}
+MyBot: 577,64, 104,7 , angle: 112
+EnemyBot: 536,9, 108,56
+AngleToEnemy: 174,587543957106
+Between angle: 62,5875439571056
+MyBot: 566,91, 193,15 , angle: -178
+EnemyBot: 536,9, 108,56
+AngleToEnemy: -109,53316176637
+Between angle: 68,46683823363
+MyBot: 571,6, 292,16 , angle: 33
+EnemyBot: 527,62, 291,59
+AngleToEnemy: -179,257463257838
+Between angle: 147,742536742162
+MyBot: 566,75, 493,35 , angle: -177
+EnemyBot: 548,18, 400,99
+AngleToEnemy: -101,368376844452
+Between angle: 75,6316231555484
+Command
+{
+  "cmdId": 14,
+  "bots": [
+    {
+      "id": 6,
+      "x": 577.64,
+      "y": 104.7,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 7,
+      "x": 566.91,
+      "y": 193.15,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 8,
+      "x": 571.6,
+      "y": 292.16,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 10,
+      "x": 566.75,
+      "y": 493.35,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 3563,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 2,
+          "x": 536.59,
+          "y": 106.66,
+          "angle": -179.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 526.02,
+          "y": 290.08,
+          "angle": -117.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 503.81,
+          "y": 409.21,
+          "angle": 119.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 548.98,
+          "y": 404.77,
+          "angle": 78.0,
+          "speed": 30.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 577.26,
+          "y": 106.52,
+          "angle": 31.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 564.65,
+          "y": 193.06,
+          "angle": -148.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 573.49,
+          "y": 293.41,
+          "angle": 63.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 564.49,
+          "y": 493.21,
+          "angle": -147.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 14
+}
+MyBot: 577,26, 106,52 , angle: 31
+EnemyBot: 536,59, 106,66
+AngleToEnemy: 179,802769180028
+Between angle: 148,802769180028
+MyBot: 564,65, 193,06 , angle: -148
+EnemyBot: 536,59, 106,66
+AngleToEnemy: -107,992164939541
+Between angle: 40,0078350604586
+MyBot: 573,49, 293,41 , angle: 63
+EnemyBot: 526,02, 290,08
+AngleToEnemy: -175,987299310957
+Between angle: 121,012700689043
+MyBot: 564,49, 493,21 , angle: -147
+EnemyBot: 548,98, 404,77
+AngleToEnemy: -99,9469879365585
+Between angle: 47,0530120634415
+Command
+{
+  "cmdId": 15,
+  "bots": [
+    {
+      "id": 6,
+      "x": 577.26,
+      "y": 106.52,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 7,
+      "x": 564.65,
+      "y": 193.06,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 8,
+      "x": 573.49,
+      "y": 293.41,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 10,
+      "x": 564.49,
+      "y": 493.21,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 3894,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 2,
+          "x": 533.63,
+          "y": 105.51,
+          "angle": -119.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 525.63,
+          "y": 286.91,
+          "angle": -70.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 503.33,
+          "y": 412.35,
+          "angle": 59.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 553.92,
+          "y": 427.99,
+          "angle": 78.0,
+          "speed": 180.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 579.76,
+          "y": 108.55,
+          "angle": 61.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 562.18,
+          "y": 190.99,
+          "angle": -118.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 574.54,
+          "y": 296.45,
+          "angle": 93.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 562.06,
+          "y": 491.1,
+          "angle": -117.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 15
+}
+MyBot: 579,76, 108,55 , angle: 61
+EnemyBot: 533,63, 105,51
+AngleToEnemy: -176,229618970304
+Between angle: 122,770381029696
+MyBot: 562,18, 190,99 , angle: -118
+EnemyBot: 533,63, 105,51
+AngleToEnemy: -108,469126447968
+Between angle: 9,53087355203174
+MyBot: 574,54, 296,45 , angle: 93
+EnemyBot: 525,63, 286,91
+AngleToEnemy: -168,962913246616
+Between angle: 98,0370867533844
+MyBot: 562,06, 491,1 , angle: -117
+EnemyBot: 553,92, 427,99
+AngleToEnemy: -97,3494986839915
+Between angle: 19,6505013160085
+Command
+{
+  "cmdId": 16,
+  "bots": [
+    {
+      "id": 6,
+      "x": 579.76,
+      "y": 108.55,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 7,
+      "x": 562.18,
+      "y": 190.99,
+      "angle": 9.5308735520317356,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 8,
+      "x": 574.54,
+      "y": 296.45,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 10,
+      "x": 562.06,
+      "y": 491.1,
+      "angle": 19.650501316008487,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 4098,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 2,
+          "x": 532.66,
+          "y": 103.71,
+          "angle": -89.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 526.37,
+          "y": 284.89,
+          "angle": -70.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 504.4,
+          "y": 414.09,
+          "angle": 31.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 554.65,
+          "y": 490.4,
+          "angle": 66.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 580.35,
+          "y": 110.44,
+          "angle": 91.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 561.34,
+          "y": 189.13,
+          "angle": -108.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 574.04,
+          "y": 298.37,
+          "angle": 123.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 565.64,
+          "y": 450.41,
+          "angle": -84.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 16
+}
+MyBot: 580,35, 110,44 , angle: 91
+EnemyBot: 532,66, 103,71
+AngleToEnemy: -171,967476692087
+Between angle: 97,0325233079128
+MyBot: 561,34, 189,13 , angle: -108
+EnemyBot: 532,66, 103,71
+AngleToEnemy: -108,559618322593
+Between angle: -0,559618322592655
+MyBot: 574,04, 298,37 , angle: 123
+EnemyBot: 526,37, 284,89
+AngleToEnemy: -164,210294451839
+Between angle: 72,7897055481611
+MyBot: 565,64, 450,41 , angle: -84
+EnemyBot: 554,65, 490,4
+AngleToEnemy: 105,366593665288
+Between angle: 189,366593665288
+Command
+{
+  "cmdId": 17,
+  "bots": [
+    {
+      "id": 6,
+      "x": 580.35,
+      "y": 110.44,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 7,
+      "x": 561.34,
+      "y": 189.13,
+      "angle": -108.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 8,
+      "x": 574.04,
+      "y": 298.37,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 10,
+      "x": 565.64,
+      "y": 450.41,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 4303,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 2,
+          "x": 532.74,
+          "y": 101.68,
+          "angle": -59.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 528.64,
+          "y": 278.63,
+          "angle": -70.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 506.3,
+          "y": 415.23,
+          "angle": 31.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 555.52,
+          "y": 492.24,
+          "angle": 36.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 580.04,
+          "y": 112.4,
+          "angle": 121.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 560.35,
+          "y": 186.13,
+          "angle": -108.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 572.74,
+          "y": 299.87,
+          "angle": 153.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 566.12,
+          "y": 448.48,
+          "angle": -54.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 17
+}
+MyBot: 580,04, 112,4 , angle: 121
+EnemyBot: 532,74, 101,68
+AngleToEnemy: -167,230293622058
+Between angle: 71,769706377942
+MyBot: 560,35, 186,13 , angle: -108
+EnemyBot: 532,74, 101,68
+AngleToEnemy: -108,104588151631
+Between angle: -0,104588151631233
+MyBot: 572,74, 299,87 , angle: 153
+EnemyBot: 528,64, 278,63
+AngleToEnemy: -154,283015199527
+Between angle: 52,7169848004733
+MyBot: 566,12, 448,48 , angle: -54
+EnemyBot: 555,52, 492,24
+AngleToEnemy: 103,616501676591
+Between angle: 157,616501676591
+Command
+{
+  "cmdId": 18,
+  "bots": [
+    {
+      "id": 6,
+      "x": 580.04,
+      "y": 112.4,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 7,
+      "x": 560.35,
+      "y": 186.13,
+      "angle": -108.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 8,
+      "x": 572.74,
+      "y": 299.87,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 10,
+      "x": 566.12,
+      "y": 448.48,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 4508,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 2,
+          "x": 533.84,
+          "y": 99.97,
+          "angle": -29.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 535.38,
+          "y": 260.11,
+          "angle": -70.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 512.29,
+          "y": 418.83,
+          "angle": 31.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 557.2,
+          "y": 493.37,
+          "angle": 6.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 578.88,
+          "y": 114.05,
+          "angle": 151.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 557.89,
+          "y": 178.57,
+          "angle": -108.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 570.88,
+          "y": 300.65,
+          "angle": -177.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 567.42,
+          "y": 446.94,
+          "angle": -24.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 18
+}
+MyBot: 578,88, 114,05 , angle: 151
+EnemyBot: 533,84, 99,97
+AngleToEnemy: -162,640180887675
+Between angle: 46,359819112325
+MyBot: 557,89, 178,57 , angle: -108
+EnemyBot: 533,84, 99,97
+AngleToEnemy: -107,013044235369
+Between angle: 0,986955764630849
+MyBot: 570,88, 300,65 , angle: -177
+EnemyBot: 535,38, 260,11
+AngleToEnemy: -131,207930456854
+Between angle: 45,7920695431463
+MyBot: 567,42, 446,94 , angle: -24
+EnemyBot: 557,2, 493,37
+AngleToEnemy: 102,413774471887
+Between angle: 126,413774471887
+Command
+{
+  "cmdId": 19,
+  "bots": [
+    {
+      "id": 6,
+      "x": 578.88,
+      "y": 114.05,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 7,
+      "x": 557.89,
+      "y": 178.57,
+      "angle": -108.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 8,
+      "x": 570.88,
+      "y": 300.65,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 10,
+      "x": 567.42,
+      "y": 446.94,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 4833,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 2,
+          "x": 536.82,
+          "y": 98.94,
+          "angle": 1.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 553.78,
+          "y": 204.63,
+          "angle": -75.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 545.7,
+          "y": 438.91,
+          "angle": 31.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 560.35,
+          "y": 493.16,
+          "angle": -24.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 575.9,
+          "y": 115.07,
+          "angle": -179.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 567.81,
+          "y": 299.94,
+          "angle": -147.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 19
+}
+MyBot: 575,9, 115,07 , angle: -179
+EnemyBot: 536,82, 98,94
+AngleToEnemy: -157,571950776643
+Between angle: 21,4280492233569
+MyBot: 567,81, 299,94 , angle: -147
+EnemyBot: 553,78, 204,63
+AngleToEnemy: -98,374020082872
+Between angle: 48,625979917128
+Command
+{
+  "cmdId": 20,
+  "bots": [
+    {
+      "id": 6,
+      "x": 575.9,
+      "y": 115.07,
+      "angle": 21.428049223356879,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 8,
+      "x": 567.81,
+      "y": 299.94,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 6589,
+  "players": [
+    {
+      "nickname": "ronnie3",
+      "asset": null,
+      "bots": [
+        {
+          "id": 2,
+          "x": 552.63,
+          "y": 252.26,
+          "angle": 85.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 598.47,
+          "y": 57.52,
+          "angle": 45.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 561.36,
+          "y": 432.93,
+          "angle": -93.0,
+          "speed": 90.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": []
+    }
+  ],
+  "lastCmdId": 20
+}
+Command
+{
+  "cmdId": 21,
+  "bots": []
+}
+GameUpdate
+{
+  "time": 68,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 96.61,
+          "y": 84.0,
+          "angle": 0.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 96.61,
+          "y": 184.0,
+          "angle": 0.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 96.61,
+          "y": 284.0,
+          "angle": 0.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 96.61,
+          "y": 384.0,
+          "angle": 0.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 96.61,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 794.47,
+          "y": 84.0,
+          "angle": 180.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 794.47,
+          "y": 184.0,
+          "angle": 180.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 794.47,
+          "y": 284.0,
+          "angle": 180.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 794.47,
+          "y": 384.0,
+          "angle": 180.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 794.47,
+          "y": 484.0,
+          "angle": 180.0,
+          "speed": 30.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 21
+}
+MyBot: 96,61, 84 , angle: 0
+EnemyBot: 794,47, 84
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 96,61, 184 , angle: 0
+EnemyBot: 794,47, 184
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 96,61, 284 , angle: 0
+EnemyBot: 794,47, 284
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 96,61, 384 , angle: 0
+EnemyBot: 794,47, 384
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 96,61, 484 , angle: 0
+EnemyBot: 794,47, 484
+AngleToEnemy: 0
+Between angle: 0
+Command
+{
+  "cmdId": 22,
+  "bots": [
+    {
+      "id": 1,
+      "x": 96.61,
+      "y": 84.0,
+      "angle": 0.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 2,
+      "x": 96.61,
+      "y": 184.0,
+      "angle": 0.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 3,
+      "x": 96.61,
+      "y": 284.0,
+      "angle": 0.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 4,
+      "x": 96.61,
+      "y": 384.0,
+      "angle": 0.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 5,
+      "x": 96.61,
+      "y": 484.0,
+      "angle": 0.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 305,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 99.09,
+          "y": 84.0,
+          "angle": 0.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 99.09,
+          "y": 184.0,
+          "angle": 0.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 99.09,
+          "y": 284.0,
+          "angle": 0.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 99.09,
+          "y": 384.0,
+          "angle": 0.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 99.09,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 30.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 783.43,
+          "y": 84.0,
+          "angle": 180.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 783.43,
+          "y": 184.0,
+          "angle": 180.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 783.43,
+          "y": 284.0,
+          "angle": 180.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 783.43,
+          "y": 384.0,
+          "angle": 180.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 783.43,
+          "y": 484.0,
+          "angle": 180.0,
+          "speed": 90.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 22
+}
+MyBot: 99,09, 84 , angle: 0
+EnemyBot: 783,43, 84
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 99,09, 184 , angle: 0
+EnemyBot: 783,43, 184
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 99,09, 284 , angle: 0
+EnemyBot: 783,43, 284
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 99,09, 384 , angle: 0
+EnemyBot: 783,43, 384
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 99,09, 484 , angle: 0
+EnemyBot: 783,43, 484
+AngleToEnemy: 0
+Between angle: 0
+Command
+{
+  "cmdId": 23,
+  "bots": [
+    {
+      "id": 1,
+      "x": 99.09,
+      "y": 84.0,
+      "angle": 0.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 2,
+      "x": 99.09,
+      "y": 184.0,
+      "angle": 0.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 3,
+      "x": 99.09,
+      "y": 284.0,
+      "angle": 0.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 4,
+      "x": 99.09,
+      "y": 384.0,
+      "angle": 0.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 5,
+      "x": 99.09,
+      "y": 484.0,
+      "angle": 0.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 690,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 118.14,
+          "y": 84.0,
+          "angle": 0.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 118.14,
+          "y": 184.0,
+          "angle": 0.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 118.14,
+          "y": 284.0,
+          "angle": 0.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 118.14,
+          "y": 384.0,
+          "angle": 0.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 118.14,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 90.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 725.2,
+          "y": 84.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 725.2,
+          "y": 184.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 725.2,
+          "y": 284.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 725.2,
+          "y": 384.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 725.2,
+          "y": 484.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 23
+}
+MyBot: 118,14, 84 , angle: 0
+EnemyBot: 725,2, 84
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 118,14, 184 , angle: 0
+EnemyBot: 725,2, 184
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 118,14, 284 , angle: 0
+EnemyBot: 725,2, 284
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 118,14, 384 , angle: 0
+EnemyBot: 725,2, 384
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 118,14, 484 , angle: 0
+EnemyBot: 725,2, 484
+AngleToEnemy: 0
+Between angle: 0
+Command
+{
+  "cmdId": 24,
+  "bots": [
+    {
+      "id": 1,
+      "x": 118.14,
+      "y": 84.0,
+      "angle": 0.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 2,
+      "x": 118.14,
+      "y": 184.0,
+      "angle": 0.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 3,
+      "x": 118.14,
+      "y": 284.0,
+      "angle": 0.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 4,
+      "x": 118.14,
+      "y": 384.0,
+      "angle": 0.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 5,
+      "x": 118.14,
+      "y": 484.0,
+      "angle": 0.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 813,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 130.47,
+          "y": 84.0,
+          "angle": 0.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 130.47,
+          "y": 184.0,
+          "angle": 0.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 130.47,
+          "y": 284.0,
+          "angle": 0.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 130.47,
+          "y": 384.0,
+          "angle": 0.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 130.47,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 180.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 680.92,
+          "y": 84.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 680.92,
+          "y": 184.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 680.92,
+          "y": 284.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 680.92,
+          "y": 384.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 680.92,
+          "y": 484.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 24
+}
+MyBot: 130,47, 84 , angle: 0
+EnemyBot: 680,92, 84
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 130,47, 184 , angle: 0
+EnemyBot: 680,92, 184
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 130,47, 284 , angle: 0
+EnemyBot: 680,92, 284
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 130,47, 384 , angle: 0
+EnemyBot: 680,92, 384
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 130,47, 484 , angle: 0
+EnemyBot: 680,92, 484
+AngleToEnemy: 0
+Between angle: 0
+Command
+{
+  "cmdId": 25,
+  "bots": [
+    {
+      "id": 1,
+      "x": 130.47,
+      "y": 84.0,
+      "angle": 0.0,
+      "speed": 180.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 2,
+      "x": 130.47,
+      "y": 184.0,
+      "angle": 0.0,
+      "speed": 180.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 3,
+      "x": 130.47,
+      "y": 284.0,
+      "angle": 0.0,
+      "speed": 180.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 4,
+      "x": 130.47,
+      "y": 384.0,
+      "angle": 0.0,
+      "speed": 180.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 5,
+      "x": 130.47,
+      "y": 484.0,
+      "angle": 0.0,
+      "speed": 180.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 1069,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 178.17,
+          "y": 84.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 178.17,
+          "y": 184.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 178.17,
+          "y": 284.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 178.17,
+          "y": 384.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 178.17,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 588.76,
+          "y": 84.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 588.76,
+          "y": 184.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 588.76,
+          "y": 284.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 588.76,
+          "y": 384.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 588.76,
+          "y": 484.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 25
+}
+MyBot: 178,17, 84 , angle: 0
+EnemyBot: 588,76, 84
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 178,17, 184 , angle: 0
+EnemyBot: 588,76, 184
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 178,17, 284 , angle: 0
+EnemyBot: 588,76, 284
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 178,17, 384 , angle: 0
+EnemyBot: 588,76, 384
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 178,17, 484 , angle: 0
+EnemyBot: 588,76, 484
+AngleToEnemy: 0
+Between angle: 0
+Command
+{
+  "cmdId": 26,
+  "bots": [
+    {
+      "id": 1,
+      "x": 178.17,
+      "y": 84.0,
+      "angle": 0.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 2,
+      "x": 178.17,
+      "y": 184.0,
+      "angle": 0.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 3,
+      "x": 178.17,
+      "y": 284.0,
+      "angle": 0.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 4,
+      "x": 178.17,
+      "y": 384.0,
+      "angle": 0.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 5,
+      "x": 178.17,
+      "y": 484.0,
+      "angle": 0.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 1303,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 257.37,
+          "y": 84.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 257.37,
+          "y": 184.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 257.37,
+          "y": 284.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 257.37,
+          "y": 384.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 257.37,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 509.56,
+          "y": 84.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 509.56,
+          "y": 184.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 509.56,
+          "y": 284.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 509.56,
+          "y": 384.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 509.56,
+          "y": 484.0,
+          "angle": 180.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 26
+}
+MyBot: 257,37, 84 , angle: 0
+EnemyBot: 509,56, 84
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 257,37, 184 , angle: 0
+EnemyBot: 509,56, 184
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 257,37, 284 , angle: 0
+EnemyBot: 509,56, 284
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 257,37, 384 , angle: 0
+EnemyBot: 509,56, 384
+AngleToEnemy: 0
+Between angle: 0
+MyBot: 257,37, 484 , angle: 0
+EnemyBot: 509,56, 484
+AngleToEnemy: 0
+Between angle: 0
+Command
+{
+  "cmdId": 27,
+  "bots": [
+    {
+      "id": 1,
+      "x": 257.37,
+      "y": 84.0,
+      "angle": 0.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 2,
+      "x": 257.37,
+      "y": 184.0,
+      "angle": 0.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 3,
+      "x": 257.37,
+      "y": 284.0,
+      "angle": 0.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 4,
+      "x": 257.37,
+      "y": 384.0,
+      "angle": 0.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 5,
+      "x": 257.37,
+      "y": 484.0,
+      "angle": 0.0,
+      "speed": 360.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 1596,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 363.46,
+          "y": 83.93,
+          "angle": -179.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 363.46,
+          "y": 183.86,
+          "angle": -178.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 363.46,
+          "y": 284.0,
+          "angle": -180.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 363.47,
+          "y": 383.79,
+          "angle": -177.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 363.46,
+          "y": 483.86,
+          "angle": -178.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 403.47,
+          "y": 84.07,
+          "angle": 1.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 403.47,
+          "y": 184.14,
+          "angle": 2.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 403.47,
+          "y": 284.07,
+          "angle": 1.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 403.47,
+          "y": 384.14,
+          "angle": 2.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 403.47,
+          "y": 484.0,
+          "angle": 0.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 27
+}
+MyBot: 363,46, 83,93 , angle: -179
+EnemyBot: 403,47, 84,07
+AngleToEnemy: 0,200484288786675
+Between angle: 179,200484288787
+MyBot: 363,46, 183,86 , angle: -178
+EnemyBot: 403,47, 184,14
+AngleToEnemy: 0,400963668323574
+Between angle: 178,400963668324
+MyBot: 363,46, 284 , angle: -180
+EnemyBot: 403,47, 284,07
+AngleToEnemy: 0,100242451229901
+Between angle: 180,10024245123
+MyBot: 363,47, 383,79 , angle: -177
+EnemyBot: 403,47, 384,14
+AngleToEnemy: 0,501325276761793
+Between angle: 177,501325276762
+MyBot: 363,46, 483,86 , angle: -178
+EnemyBot: 403,47, 484
+AngleToEnemy: 0,200484288786675
+Between angle: 178,200484288787
+Command
+{
+  "cmdId": 28,
+  "bots": [
+    {
+      "id": 1,
+      "x": 363.46,
+      "y": 83.93,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 2,
+      "x": 363.46,
+      "y": 183.86,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 363.46,
+      "y": 284.0,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 363.47,
+      "y": 383.79,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 363.46,
+      "y": 483.86,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 1803,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 361.4,
+          "y": 83.88,
+          "angle": -149.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 361.4,
+          "y": 183.77,
+          "angle": -148.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 361.39,
+          "y": 283.99,
+          "angle": -150.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 361.4,
+          "y": 383.66,
+          "angle": -147.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 361.4,
+          "y": 483.77,
+          "angle": -148.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 405.53,
+          "y": 84.14,
+          "angle": 31.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 405.53,
+          "y": 184.24,
+          "angle": 32.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 405.53,
+          "y": 284.14,
+          "angle": 31.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 405.53,
+          "y": 384.24,
+          "angle": 32.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 405.53,
+          "y": 483.97,
+          "angle": -30.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 28
+}
+MyBot: 361,4, 83,88 , angle: -149
+EnemyBot: 405,53, 84,14
+AngleToEnemy: 0,337564702248182
+Between angle: 149,337564702248
+MyBot: 361,4, 183,77 , angle: -148
+EnemyBot: 405,53, 184,24
+AngleToEnemy: 0,610197105245783
+Between angle: 148,610197105246
+MyBot: 361,39, 283,99 , angle: -150
+EnemyBot: 405,53, 284,14
+AngleToEnemy: 0,194706249292314
+Between angle: 150,194706249292
+MyBot: 361,4, 383,66 , angle: -147
+EnemyBot: 405,53, 384,24
+AngleToEnemy: 0,752994309181524
+Between angle: 147,752994309182
+MyBot: 361,4, 483,77 , angle: -148
+EnemyBot: 405,53, 483,97
+AngleToEnemy: 0,259666382235783
+Between angle: 148,259666382236
+Command
+{
+  "cmdId": 29,
+  "bots": [
+    {
+      "id": 1,
+      "x": 361.4,
+      "y": 83.88,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 2,
+      "x": 361.4,
+      "y": 183.77,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 361.39,
+      "y": 283.99,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 361.4,
+      "y": 383.66,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 361.4,
+      "y": 483.77,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 2019,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 359.57,
+          "y": 82.73,
+          "angle": -119.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 359.59,
+          "y": 182.59,
+          "angle": -118.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 359.55,
+          "y": 282.87,
+          "angle": -120.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 359.62,
+          "y": 382.45,
+          "angle": -117.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 359.59,
+          "y": 482.59,
+          "angle": -118.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 407.39,
+          "y": 85.26,
+          "angle": 61.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 407.36,
+          "y": 185.4,
+          "angle": 62.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 407.39,
+          "y": 285.26,
+          "angle": 61.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 407.36,
+          "y": 385.4,
+          "angle": 62.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 407.41,
+          "y": 482.88,
+          "angle": -60.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 29
+}
+MyBot: 359,57, 82,73 , angle: -119
+EnemyBot: 407,39, 85,26
+AngleToEnemy: 3,02850892587643
+Between angle: 122,028508925876
+MyBot: 359,59, 182,59 , angle: -118
+EnemyBot: 407,36, 185,4
+AngleToEnemy: 3,3664606634298
+Between angle: 121,36646066343
+MyBot: 359,55, 282,87 , angle: -120
+EnemyBot: 407,39, 285,26
+AngleToEnemy: 2,86001588596099
+Between angle: 122,860015885961
+MyBot: 359,62, 382,45 , angle: -117
+EnemyBot: 407,36, 385,4
+AngleToEnemy: 3,5359847149571
+Between angle: 120,535984714957
+MyBot: 359,59, 482,59 , angle: -118
+EnemyBot: 407,41, 482,88
+AngleToEnemy: 0,34746073547118
+Between angle: 118,347460735471
+Command
+{
+  "cmdId": 30,
+  "bots": [
+    {
+      "id": 1,
+      "x": 359.57,
+      "y": 82.73,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 2,
+      "x": 359.59,
+      "y": 182.59,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 359.55,
+      "y": 282.87,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 359.62,
+      "y": 382.45,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 359.59,
+      "y": 482.59,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 2295,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 358.27,
+          "y": 80.3,
+          "angle": -89.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 358.34,
+          "y": 180.14,
+          "angle": -88.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 358.21,
+          "y": 280.47,
+          "angle": -90.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 358.41,
+          "y": 379.98,
+          "angle": -87.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 358.34,
+          "y": 480.14,
+          "angle": -88.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 408.45,
+          "y": 87.74,
+          "angle": 91.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 408.86,
+          "y": 187.64,
+          "angle": 32.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 408.93,
+          "y": 287.48,
+          "angle": 31.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 408.86,
+          "y": 387.64,
+          "angle": 32.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 408.52,
+          "y": 480.42,
+          "angle": -90.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 30
+}
+MyBot: 358,27, 80,3 , angle: -89
+EnemyBot: 408,45, 87,74
+AngleToEnemy: 8,43358984501441
+Between angle: 97,4335898450144
+MyBot: 358,34, 180,14 , angle: -88
+EnemyBot: 408,86, 187,64
+AngleToEnemy: 8,44423124255566
+Between angle: 96,4442312425557
+MyBot: 358,21, 280,47 , angle: -90
+EnemyBot: 408,93, 287,48
+AngleToEnemy: 7,86898543192143
+Between angle: 97,8689854319214
+MyBot: 358,41, 379,98 , angle: -87
+EnemyBot: 408,86, 387,64
+AngleToEnemy: 8,63347794793222
+Between angle: 95,6334779479322
+MyBot: 358,34, 480,14 , angle: -88
+EnemyBot: 408,52, 480,42
+AngleToEnemy: 0,319702107748223
+Between angle: 88,3197021077482
+Command
+{
+  "cmdId": 31,
+  "bots": [
+    {
+      "id": 1,
+      "x": 358.27,
+      "y": 80.3,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 2,
+      "x": 358.34,
+      "y": 180.14,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 358.21,
+      "y": 280.47,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 358.41,
+      "y": 379.98,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 358.34,
+      "y": 480.14,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 2541,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 358.34,
+          "y": 77.86,
+          "angle": -59.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 358.45,
+          "y": 177.7,
+          "angle": -58.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 358.24,
+          "y": 278.02,
+          "angle": -60.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 358.56,
+          "y": 377.55,
+          "angle": -57.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 358.45,
+          "y": 477.7,
+          "angle": -58.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 407.99,
+          "y": 90.07,
+          "angle": 121.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 411.07,
+          "y": 188.52,
+          "angle": 2.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 411.15,
+          "y": 288.32,
+          "angle": 1.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 411.07,
+          "y": 388.52,
+          "angle": 2.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 408.52,
+          "y": 476.27,
+          "angle": -90.0,
+          "speed": 30.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 31
+}
+MyBot: 358,34, 77,86 , angle: -59
+EnemyBot: 407,99, 90,07
+AngleToEnemy: 13,8160956902156
+Between angle: 72,8160956902156
+MyBot: 358,45, 177,7 , angle: -58
+EnemyBot: 411,07, 188,52
+AngleToEnemy: 11,6195007002621
+Between angle: 69,6195007002621
+MyBot: 358,24, 278,02 , angle: -60
+EnemyBot: 411,15, 288,32
+AngleToEnemy: 11,0160036385944
+Between angle: 71,0160036385944
+MyBot: 358,56, 377,55 , angle: -57
+EnemyBot: 411,07, 388,52
+AngleToEnemy: 11,8000935345563
+Between angle: 68,8000935345563
+MyBot: 358,45, 477,7 , angle: -58
+EnemyBot: 408,52, 476,27
+AngleToEnemy: -1,63592368130119
+Between angle: 56,3640763186988
+Command
+{
+  "cmdId": 32,
+  "bots": [
+    {
+      "id": 1,
+      "x": 358.34,
+      "y": 77.86,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 2,
+      "x": 358.45,
+      "y": 177.7,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 358.24,
+      "y": 278.02,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 358.56,
+      "y": 377.55,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 358.45,
+      "y": 477.7,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 2763,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 359.55,
+          "y": 76.01,
+          "angle": -29.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 359.69,
+          "y": 175.87,
+          "angle": -28.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 359.41,
+          "y": 276.15,
+          "angle": -30.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 359.83,
+          "y": 375.73,
+          "angle": -27.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 359.69,
+          "y": 475.87,
+          "angle": -28.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 406.04,
+          "y": 93.32,
+          "angle": 121.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 413.21,
+          "y": 188.21,
+          "angle": -28.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 413.28,
+          "y": 287.96,
+          "angle": -29.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 9,
+          "x": 413.21,
+          "y": 388.21,
+          "angle": -28.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 408.52,
+          "y": 464.9,
+          "angle": -90.0,
+          "speed": 90.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 32
+}
+MyBot: 359,55, 76,01 , angle: -29
+EnemyBot: 406,04, 93,32
+AngleToEnemy: 20,4222178783894
+Between angle: 49,4222178783894
+MyBot: 359,69, 175,87 , angle: -28
+EnemyBot: 413,21, 188,21
+AngleToEnemy: 12,9836702472043
+Between angle: 40,9836702472043
+MyBot: 359,41, 276,15 , angle: -30
+EnemyBot: 413,28, 287,96
+AngleToEnemy: 12,3654117900364
+Between angle: 42,3654117900364
+MyBot: 359,83, 375,73 , angle: -27
+EnemyBot: 413,21, 388,21
+AngleToEnemy: 13,1591288189416
+Between angle: 40,1591288189416
+MyBot: 359,69, 475,87 , angle: -28
+EnemyBot: 408,52, 464,9
+AngleToEnemy: -12,6616751679933
+Between angle: 15,3383248320067
+Command
+{
+  "cmdId": 33,
+  "bots": [
+    {
+      "id": 1,
+      "x": 359.55,
+      "y": 76.01,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 2,
+      "x": 359.69,
+      "y": 175.87,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 359.41,
+      "y": 276.15,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 359.83,
+      "y": 375.73,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 359.69,
+      "y": 475.87,
+      "angle": 15.338324832006736,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 3070,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 362.33,
+          "y": 74.91,
+          "angle": 1.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 2,
+          "x": 362.49,
+          "y": 174.82,
+          "angle": 2.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 362.17,
+          "y": 275.0,
+          "angle": 0.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 362.65,
+          "y": 374.73,
+          "angle": 3.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 362.47,
+          "y": 474.62,
+          "angle": -13.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 396.6,
+          "y": 109.03,
+          "angle": 121.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 415.38,
+          "y": 186.19,
+          "angle": -58.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 415.42,
+          "y": 285.91,
+          "angle": -59.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 10,
+          "x": 408.52,
+          "y": 423.59,
+          "angle": -90.0,
+          "speed": 180.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 33
+}
+MyBot: 362,33, 74,91 , angle: 1
+EnemyBot: 396,6, 109,03
+AngleToEnemy: 44,8743331898565
+Between angle: 43,8743331898565
+MyBot: 362,49, 174,82 , angle: 2
+EnemyBot: 415,38, 186,19
+AngleToEnemy: 12,1324823224115
+Between angle: 10,1324823224115
+MyBot: 362,17, 275 , angle: 0
+EnemyBot: 415,42, 285,91
+AngleToEnemy: 11,5786724334328
+Between angle: 11,5786724334328
+MyBot: 362,65, 374,73 , angle: 3
+EnemyBot: 408,52, 423,59
+AngleToEnemy: 46,8078488779773
+Between angle: 43,8078488779773
+MyBot: 362,47, 474,62 , angle: -13
+EnemyBot: 408,52, 423,59
+AngleToEnemy: -47,9365790508264
+Between angle: -34,9365790508264
+Command
+{
+  "cmdId": 34,
+  "bots": [
+    {
+      "id": 1,
+      "x": 362.33,
+      "y": 74.91,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 2,
+      "x": 362.49,
+      "y": 174.82,
+      "angle": 10.132482322411454,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 362.17,
+      "y": 275.0,
+      "angle": 11.578672433432786,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 362.65,
+      "y": 374.73,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 362.47,
+      "y": 474.62,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 3358,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 365.02,
+          "y": 75.61,
+          "angle": 31.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 365.02,
+          "y": 275.26,
+          "angle": 12.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 365.31,
+          "y": 375.53,
+          "angle": 33.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 365.25,
+          "y": 474.66,
+          "angle": 17.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 373.19,
+          "y": 147.99,
+          "angle": 121.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 415.76,
+          "y": 183.42,
+          "angle": -118.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 415.75,
+          "y": 283.13,
+          "angle": -119.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 34
+}
+MyBot: 365,02, 75,61 , angle: 31
+EnemyBot: 373,19, 147,99
+AngleToEnemy: 83,5599127437344
+Between angle: 52,5599127437344
+MyBot: 365,02, 275,26 , angle: 12
+EnemyBot: 415,75, 283,13
+AngleToEnemy: 8,81828788917308
+Between angle: -3,18171211082692
+MyBot: 365,31, 375,53 , angle: 33
+EnemyBot: 415,75, 283,13
+AngleToEnemy: -61,3704278415776
+Between angle: -94,3704278415776
+MyBot: 365,25, 474,66 , angle: 17
+EnemyBot: 415,75, 283,13
+AngleToEnemy: -75,2291995231645
+Between angle: -92,2291995231645
+Command
+{
+  "cmdId": 35,
+  "bots": [
+    {
+      "id": 1,
+      "x": 365.02,
+      "y": 75.61,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 365.02,
+      "y": 275.26,
+      "angle": 12.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 4,
+      "x": 365.31,
+      "y": 375.53,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 365.25,
+      "y": 474.66,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 3589,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 366.52,
+          "y": 77.26,
+          "angle": 61.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 369.81,
+          "y": 276.27,
+          "angle": 12.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 366.76,
+          "y": 377.23,
+          "angle": 63.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 367.11,
+          "y": 475.9,
+          "angle": 47.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 362.7,
+          "y": 165.45,
+          "angle": 121.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 414.65,
+          "y": 181.4,
+          "angle": -148.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 414.61,
+          "y": 281.14,
+          "angle": -149.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 35
+}
+MyBot: 366,52, 77,26 , angle: 61
+EnemyBot: 362,7, 165,45
+AngleToEnemy: 92,4802488672242
+Between angle: 31,4802488672242
+MyBot: 369,81, 276,27 , angle: 12
+EnemyBot: 414,61, 281,14
+AngleToEnemy: 6,2039974619586
+Between angle: -5,7960025380414
+MyBot: 366,76, 377,23 , angle: 63
+EnemyBot: 414,61, 281,14
+AngleToEnemy: -63,5280427459586
+Between angle: -126,528042745959
+MyBot: 367,11, 475,9 , angle: 47
+EnemyBot: 414,61, 281,14
+AngleToEnemy: -76,2937162381888
+Between angle: -123,293716238189
+Command
+{
+  "cmdId": 36,
+  "bots": [
+    {
+      "id": 1,
+      "x": 366.52,
+      "y": 77.26,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 369.81,
+      "y": 276.27,
+      "angle": 12.0,
+      "speed": 30.0,
+      "cmd": "brake"
+    },
+    {
+      "id": 4,
+      "x": 366.76,
+      "y": 377.23,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 367.11,
+      "y": 475.9,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 3812,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 366.98,
+          "y": 79.36,
+          "angle": 91.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 372.88,
+          "y": 277.09,
+          "angle": 176.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 367.14,
+          "y": 379.34,
+          "angle": 93.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 368.06,
+          "y": 477.82,
+          "angle": 77.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 359.4,
+          "y": 170.93,
+          "angle": 121.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 412.75,
+          "y": 180.29,
+          "angle": -178.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 413.67,
+          "y": 280.13,
+          "angle": -33.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 36
+}
+MyBot: 366,98, 79,36 , angle: 91
+EnemyBot: 359,4, 170,93
+AngleToEnemy: 94,7320529432688
+Between angle: 3,73205294326884
+MyBot: 372,88, 277,09 , angle: 176
+EnemyBot: 413,67, 280,13
+AngleToEnemy: 4,26226406862467
+Between angle: -171,737735931375
+MyBot: 367,14, 379,34 , angle: 93
+EnemyBot: 413,67, 280,13
+AngleToEnemy: -64,8731812420748
+Between angle: -157,873181242075
+MyBot: 368,06, 477,82 , angle: 77
+EnemyBot: 413,67, 280,13
+AngleToEnemy: -77,0083466369016
+Between angle: -154,008346636902
+Command
+{
+  "cmdId": 37,
+  "bots": [
+    {
+      "id": 1,
+      "x": 366.98,
+      "y": 79.36,
+      "angle": 91.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 3,
+      "x": 372.88,
+      "y": 277.09,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 367.14,
+      "y": 379.34,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 368.06,
+      "y": 477.82,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 4031,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 366.9,
+          "y": 83.73,
+          "angle": 91.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 370.8,
+          "y": 276.69,
+          "angle": -154.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 366.49,
+          "y": 381.35,
+          "angle": 123.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 367.99,
+          "y": 479.94,
+          "angle": 107.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 358.29,
+          "y": 172.81,
+          "angle": 91.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 410.57,
+          "y": 180.23,
+          "angle": 152.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 415.51,
+          "y": 278.96,
+          "angle": -3.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 37
+}
+MyBot: 366,9, 83,73 , angle: 91
+EnemyBot: 358,29, 172,81
+AngleToEnemy: 95,5207566912047
+Between angle: 4,52075669120468
+MyBot: 370,8, 276,69 , angle: -154
+EnemyBot: 415,51, 278,96
+AngleToEnemy: 2,90650495065037
+Between angle: 156,90650495065
+MyBot: 366,49, 381,35 , angle: 123
+EnemyBot: 415,51, 278,96
+AngleToEnemy: -64,4168725415335
+Between angle: 172,583127458467
+MyBot: 367,99, 479,94 , angle: 107
+EnemyBot: 415,51, 278,96
+AngleToEnemy: -76,6972079589442
+Between angle: 176,302792041056
+Command
+{
+  "cmdId": 38,
+  "bots": [
+    {
+      "id": 1,
+      "x": 366.9,
+      "y": 83.73,
+      "angle": 91.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 3,
+      "x": 370.8,
+      "y": 276.69,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 366.49,
+      "y": 381.35,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 367.99,
+      "y": 479.94,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 4249,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 366.68,
+          "y": 96.23,
+          "angle": 91.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 369.17,
+          "y": 275.34,
+          "angle": -124.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 364.95,
+          "y": 382.81,
+          "angle": 153.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 366.91,
+          "y": 481.76,
+          "angle": 137.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 358.25,
+          "y": 175.14,
+          "angle": 91.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 408.66,
+          "y": 181.28,
+          "angle": 122.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 417.69,
+          "y": 278.88,
+          "angle": 27.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 38
+}
+MyBot: 366,68, 96,23 , angle: 91
+EnemyBot: 358,25, 175,14
+AngleToEnemy: 96,097813116437
+Between angle: 5,09781311643701
+MyBot: 369,17, 275,34 , angle: -124
+EnemyBot: 417,69, 278,88
+AngleToEnemy: 4,17288365062334
+Between angle: 128,172883650623
+MyBot: 364,95, 382,81 , angle: 153
+EnemyBot: 417,69, 278,88
+AngleToEnemy: -63,094168274096
+Between angle: 143,905831725904
+MyBot: 366,91, 481,76 , angle: 137
+EnemyBot: 417,69, 278,88
+AngleToEnemy: -75,9478096612304
+Between angle: 147,05219033877
+Command
+{
+  "cmdId": 39,
+  "bots": [
+    {
+      "id": 1,
+      "x": 366.68,
+      "y": 96.23,
+      "angle": 91.0,
+      "speed": 90.0,
+      "cmd": "brake"
+    },
+    {
+      "id": 3,
+      "x": 369.17,
+      "y": 275.34,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 364.95,
+      "y": 382.81,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 366.91,
+      "y": 481.76,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 4479,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 366.43,
+          "y": 110.93,
+          "angle": 91.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 368.37,
+          "y": 273.27,
+          "angle": -94.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 362.8,
+          "y": 383.35,
+          "angle": -177.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 364.99,
+          "y": 482.87,
+          "angle": 167.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 358.12,
+          "y": 182.52,
+          "angle": 91.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 407.47,
+          "y": 183.24,
+          "angle": 98.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 419.71,
+          "y": 279.95,
+          "angle": 57.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 39
+}
+MyBot: 366,43, 110,93 , angle: 91
+EnemyBot: 358,12, 182,52
+AngleToEnemy: 96,6211286235648
+Between angle: 5,62112862356481
+MyBot: 368,37, 273,27 , angle: -94
+EnemyBot: 419,71, 279,95
+AngleToEnemy: 7,41327730191195
+Between angle: 101,413277301912
+MyBot: 362,8, 383,35 , angle: -177
+EnemyBot: 419,71, 279,95
+AngleToEnemy: -61,1721919837826
+Between angle: 115,827808016217
+MyBot: 364,99, 482,87 , angle: 167
+EnemyBot: 419,71, 279,95
+AngleToEnemy: -74,9084273214051
+Between angle: 118,091572678595
+Command
+{
+  "cmdId": 40,
+  "bots": [
+    {
+      "id": 1,
+      "x": 366.43,
+      "y": 110.93,
+      "angle": 91.0,
+      "speed": 30.0,
+      "cmd": "brake"
+    },
+    {
+      "id": 3,
+      "x": 368.37,
+      "y": 273.27,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 362.8,
+      "y": 383.35,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 364.99,
+      "y": 482.87,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 4697,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 366.34,
+          "y": 115.93,
+          "angle": 91.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 368.61,
+          "y": 271.17,
+          "angle": -64.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 360.74,
+          "y": 382.85,
+          "angle": -147.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 362.88,
+          "y": 482.96,
+          "angle": -163.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 357.75,
+          "y": 203.49,
+          "angle": 91.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 407.12,
+          "y": 185.7,
+          "angle": 98.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 420.82,
+          "y": 281.8,
+          "angle": 87.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 40
+}
+MyBot: 366,34, 115,93 , angle: 91
+EnemyBot: 407,12, 185,7
+AngleToEnemy: 59,6940599485231
+Between angle: -31,3059400514769
+MyBot: 368,61, 271,17 , angle: -64
+EnemyBot: 420,82, 281,8
+AngleToEnemy: 11,5081723806288
+Between angle: 75,5081723806288
+MyBot: 360,74, 382,85 , angle: -147
+EnemyBot: 420,82, 281,8
+AngleToEnemy: -59,266097365716
+Between angle: 87,733902634284
+MyBot: 362,88, 482,96 , angle: -163
+EnemyBot: 420,82, 281,8
+AngleToEnemy: -73,9320424479493
+Between angle: 89,0679575520507
+Command
+{
+  "cmdId": 41,
+  "bots": [
+    {
+      "id": 1,
+      "x": 366.34,
+      "y": 115.93,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 368.61,
+      "y": 271.17,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 360.74,
+      "y": 382.85,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 362.88,
+      "y": 482.96,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 4919,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 366.05,
+          "y": 118.08,
+          "angle": 121.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 380.19,
+          "y": 240.61,
+          "angle": -40.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 359.08,
+          "y": 381.47,
+          "angle": -117.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 360.9,
+          "y": 482.09,
+          "angle": -133.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 346.11,
+          "y": 263.25,
+          "angle": 81.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 406.16,
+          "y": 192.53,
+          "angle": 98.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 420.94,
+          "y": 284.1,
+          "angle": 87.0,
+          "speed": 30.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 41
+}
+MyBot: 366,05, 118,08 , angle: 121
+EnemyBot: 406,16, 192,53
+AngleToEnemy: 61,6863957949211
+Between angle: -59,3136042050789
+MyBot: 380,19, 240,61 , angle: -40
+EnemyBot: 346,11, 263,25
+AngleToEnemy: 146,403146783613
+Between angle: 186,403146783613
+MyBot: 359,08, 381,47 , angle: -117
+EnemyBot: 420,94, 284,1
+AngleToEnemy: -57,5718531510257
+Between angle: 59,4281468489743
+MyBot: 360,9, 482,09 , angle: -133
+EnemyBot: 420,94, 284,1
+AngleToEnemy: -73,1301968017145
+Between angle: 59,8698031982855
+Command
+{
+  "cmdId": 42,
+  "bots": [
+    {
+      "id": 1,
+      "x": 366.05,
+      "y": 118.08,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 380.19,
+      "y": 240.61,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 359.08,
+      "y": 381.47,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 360.9,
+      "y": 482.09,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 5150,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 364.68,
+          "y": 119.88,
+          "angle": 151.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 372.81,
+          "y": 226.79,
+          "angle": -95.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 358.28,
+          "y": 379.36,
+          "angle": -87.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 359.54,
+          "y": 480.28,
+          "angle": -103.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 346.49,
+          "y": 265.52,
+          "angle": 51.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 412.52,
+          "y": 220.14,
+          "angle": 87.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 421.3,
+          "y": 290.94,
+          "angle": 87.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 42
+}
+MyBot: 364,68, 119,88 , angle: 151
+EnemyBot: 412,52, 220,14
+AngleToEnemy: 64,4914189865208
+Between angle: -86,5085810134792
+MyBot: 372,81, 226,79 , angle: -95
+EnemyBot: 412,52, 220,14
+AngleToEnemy: -9,50677198926569
+Between angle: 85,4932280107343
+MyBot: 358,28, 379,36 , angle: -87
+EnemyBot: 421,3, 290,94
+AngleToEnemy: -54,5212104022835
+Between angle: 32,4787895977165
+MyBot: 359,54, 480,28 , angle: -103
+EnemyBot: 421,3, 290,94
+AngleToEnemy: -71,9344145140179
+Between angle: 31,0655854859821
+Command
+{
+  "cmdId": 43,
+  "bots": [
+    {
+      "id": 1,
+      "x": 364.68,
+      "y": 119.88,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 372.81,
+      "y": 226.79,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 358.28,
+      "y": 379.36,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 359.54,
+      "y": 480.28,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 5371,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 362.68,
+          "y": 120.66,
+          "angle": -179.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 372.33,
+          "y": 224.97,
+          "angle": -175.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 358.67,
+          "y": 377.24,
+          "angle": -57.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 359.34,
+          "y": 478.14,
+          "angle": -73.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 347.84,
+          "y": 267.25,
+          "angle": 81.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 413.01,
+          "y": 222.03,
+          "angle": 37.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 421.38,
+          "y": 293.14,
+          "angle": 117.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 43
+}
+MyBot: 362,68, 120,66 , angle: -179
+EnemyBot: 413,01, 222,03
+AngleToEnemy: 63,5956944534696
+Between angle: 242,59569445347
+MyBot: 372,33, 224,97 , angle: -175
+EnemyBot: 413,01, 222,03
+AngleToEnemy: -4,13365850816742
+Between angle: 170,866341491833
+MyBot: 358,67, 377,24 , angle: -57
+EnemyBot: 421,38, 293,14
+AngleToEnemy: -53,2895815489733
+Between angle: 3,71041845102672
+MyBot: 359,34, 478,14 , angle: -73
+EnemyBot: 421,38, 293,14
+AngleToEnemy: -71,4610527287103
+Between angle: 1,53894727128973
+Command
+{
+  "cmdId": 44,
+  "bots": [
+    {
+      "id": 1,
+      "x": 362.68,
+      "y": 120.66,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 372.33,
+      "y": 224.97,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 358.67,
+      "y": 377.24,
+      "angle": -57.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 5,
+      "x": 359.34,
+      "y": 478.14,
+      "angle": -73.0,
+      "speed": 10.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 5602,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 360.45,
+          "y": 120.34,
+          "angle": -149.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 370.13,
+          "y": 224.49,
+          "angle": -145.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 360.54,
+          "y": 374.36,
+          "angle": -57.0,
+          "speed": 30.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 360.34,
+          "y": 474.86,
+          "angle": -73.0,
+          "speed": 30.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 348.26,
+          "y": 269.51,
+          "angle": 51.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 414.87,
+          "y": 223.37,
+          "angle": 7.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 420.28,
+          "y": 295.16,
+          "angle": 147.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 44
+}
+MyBot: 360,45, 120,34 , angle: -149
+EnemyBot: 414,87, 223,37
+AngleToEnemy: 62,1571797423224
+Between angle: 211,157179742322
+MyBot: 370,13, 224,49 , angle: -145
+EnemyBot: 414,87, 223,37
+AngleToEnemy: -1,43401594089351
+Between angle: 143,565984059106
+MyBot: 360,54, 374,36 , angle: -57
+EnemyBot: 420,28, 295,16
+AngleToEnemy: -52,9730077513662
+Between angle: 4,02699224863376
+MyBot: 360,34, 474,86 , angle: -73
+EnemyBot: 420,28, 295,16
+AngleToEnemy: -71,553573657297
+Between angle: 1,44642634270299
+Command
+{
+  "cmdId": 45,
+  "bots": [
+    {
+      "id": 1,
+      "x": 360.45,
+      "y": 120.34,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 370.13,
+      "y": 224.49,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 360.54,
+      "y": 374.36,
+      "angle": -57.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 5,
+      "x": 360.34,
+      "y": 474.86,
+      "angle": -73.0,
+      "speed": 30.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 5821,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 358.73,
+          "y": 119.06,
+          "angle": -119.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 368.5,
+          "y": 223.1,
+          "angle": -115.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 365.52,
+          "y": 366.69,
+          "angle": -57.0,
+          "speed": 90.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 363.02,
+          "y": 466.11,
+          "angle": -73.0,
+          "speed": 90.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 349.67,
+          "y": 271.16,
+          "angle": 21.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 417.04,
+          "y": 223.57,
+          "angle": -23.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 418.43,
+          "y": 296.29,
+          "angle": 177.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 45
+}
+MyBot: 358,73, 119,06 , angle: -119
+EnemyBot: 417,04, 223,57
+AngleToEnemy: 60,8412337077326
+Between angle: 179,841233707733
+MyBot: 368,5, 223,1 , angle: -115
+EnemyBot: 417,04, 223,57
+AngleToEnemy: 0,554762563627608
+Between angle: 115,554762563628
+MyBot: 365,52, 366,69 , angle: -57
+EnemyBot: 418,43, 296,29
+AngleToEnemy: -53,0728495333285
+Between angle: 3,92715046667153
+MyBot: 363,02, 466,11 , angle: -73
+EnemyBot: 418,43, 296,29
+AngleToEnemy: -71,9291864278547
+Between angle: 1,07081357214533
+Command
+{
+  "cmdId": 46,
+  "bots": [
+    {
+      "id": 1,
+      "x": 358.73,
+      "y": 119.06,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 368.5,
+      "y": 223.1,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 365.52,
+      "y": 366.69,
+      "angle": -57.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 5,
+      "x": 363.02,
+      "y": 466.11,
+      "angle": -73.0,
+      "speed": 90.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 6041,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 357.83,
+          "y": 117.09,
+          "angle": -89.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 367.74,
+          "y": 221.07,
+          "angle": -85.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 377.93,
+          "y": 347.59,
+          "angle": -57.0,
+          "speed": 180.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 369.68,
+          "y": 444.33,
+          "angle": -73.0,
+          "speed": 180.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 351.73,
+          "y": 271.94,
+          "angle": -9.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 419.06,
+          "y": 222.7,
+          "angle": -53.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 8,
+          "x": 416.23,
+          "y": 296.39,
+          "angle": -153.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 46
+}
+MyBot: 357,83, 117,09 , angle: -89
+EnemyBot: 419,06, 222,7
+AngleToEnemy: 59,8959295948094
+Between angle: 148,895929594809
+MyBot: 367,74, 221,07 , angle: -85
+EnemyBot: 419,06, 222,7
+AngleToEnemy: 1,81918813664068
+Between angle: 86,8191881366407
+MyBot: 377,93, 347,59 , angle: -57
+EnemyBot: 416,23, 296,39
+AngleToEnemy: -53,201789247638
+Between angle: 3,79821075236199
+MyBot: 369,68, 444,33 , angle: -73
+EnemyBot: 416,23, 296,39
+AngleToEnemy: -72,5335785545015
+Between angle: 0,466421445498483
+Command
+{
+  "cmdId": 47,
+  "bots": [
+    {
+      "id": 1,
+      "x": 357.83,
+      "y": 117.09,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 367.74,
+      "y": 221.07,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 377.93,
+      "y": 347.59,
+      "angle": -57.0,
+      "speed": 180.0,
+      "cmd": "accelerate"
+    },
+    {
+      "id": 5,
+      "x": 369.68,
+      "y": 444.33,
+      "angle": -73.0,
+      "speed": 180.0,
+      "cmd": "accelerate"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 6260,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 358.03,
+          "y": 114.96,
+          "angle": -59.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 368.09,
+          "y": 218.96,
+          "angle": -55.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 402.43,
+          "y": 309.85,
+          "angle": -57.0,
+          "speed": 360.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 382.83,
+          "y": 401.3,
+          "angle": -73.0,
+          "speed": 360.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 353.88,
+          "y": 271.58,
+          "angle": -39.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 420.35,
+          "y": 220.96,
+          "angle": -83.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 47
+}
+MyBot: 358,03, 114,96 , angle: -59
+EnemyBot: 420,35, 220,96
+AngleToEnemy: 59,5476851794833
+Between angle: 118,547685179483
+MyBot: 368,09, 218,96 , angle: -55
+EnemyBot: 420,35, 220,96
+AngleToEnemy: 2,19165067470554
+Between angle: 57,1916506747055
+MyBot: 402,43, 309,85 , angle: -57
+EnemyBot: 353,88, 271,58
+AngleToEnemy: -141,752717703897
+Between angle: -84,7527177038968
+MyBot: 382,83, 401,3 , angle: -73
+EnemyBot: 353,88, 271,58
+AngleToEnemy: -102,580708587136
+Between angle: -29,5807085871358
+Command
+{
+  "cmdId": 48,
+  "bots": [
+    {
+      "id": 1,
+      "x": 358.03,
+      "y": 114.96,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 368.09,
+      "y": 218.96,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 402.43,
+      "y": 309.85,
+      "angle": -57.0,
+      "speed": 360.0,
+      "cmd": "brake"
+    },
+    {
+      "id": 5,
+      "x": 382.83,
+      "y": 401.3,
+      "angle": -73.0,
+      "speed": 360.0,
+      "cmd": "brake"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 6483,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 359.28,
+          "y": 113.14,
+          "angle": -29.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 369.47,
+          "y": 217.23,
+          "angle": -25.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 450.73,
+          "y": 235.48,
+          "angle": -57.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 404.94,
+          "y": 329.0,
+          "angle": -73.0,
+          "speed": 180.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 355.58,
+          "y": 270.14,
+          "angle": -69.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 410.51,
+          "y": 234.05,
+          "angle": 94.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 48
+}
+MyBot: 359,28, 113,14 , angle: -29
+EnemyBot: 410,51, 234,05
+AngleToEnemy: 67,0374525998817
+Between angle: 96,0374525998817
+MyBot: 369,47, 217,23 , angle: -25
+EnemyBot: 410,51, 234,05
+AngleToEnemy: 22,2859795548714
+Between angle: 47,2859795548714
+MyBot: 450,73, 235,48 , angle: -57
+EnemyBot: 410,51, 234,05
+AngleToEnemy: -177,963737779016
+Between angle: -120,963737779016
+MyBot: 404,94, 329 , angle: -73
+EnemyBot: 355,58, 270,14
+AngleToEnemy: -129,983199281596
+Between angle: -56,9831992815963
+Command
+{
+  "cmdId": 49,
+  "bots": [
+    {
+      "id": 1,
+      "x": 359.28,
+      "y": 113.14,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 369.47,
+      "y": 217.23,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 450.73,
+      "y": 235.48,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 404.94,
+      "y": 329.0,
+      "angle": -73.0,
+      "speed": 180.0,
+      "cmd": "brake"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 6724,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 361.46,
+          "y": 112.24,
+          "angle": 1.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 371.7,
+          "y": 216.48,
+          "angle": 5.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 452.23,
+          "y": 233.66,
+          "angle": -27.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 416.23,
+          "y": 292.08,
+          "angle": -73.0,
+          "speed": 90.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 356.47,
+          "y": 267.91,
+          "angle": -39.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 7,
+          "x": 410.38,
+          "y": 236.45,
+          "angle": 64.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 49
+}
+MyBot: 361,46, 112,24 , angle: 1
+EnemyBot: 410,38, 236,45
+AngleToEnemy: 68,5030429580804
+Between angle: 67,5030429580804
+MyBot: 371,7, 216,48 , angle: 5
+EnemyBot: 410,38, 236,45
+AngleToEnemy: 27,3067407863695
+Between angle: 22,3067407863695
+MyBot: 452,23, 233,66 , angle: -27
+EnemyBot: 410,38, 236,45
+AngleToEnemy: 176,18592516571
+Between angle: 203,18592516571
+MyBot: 416,23, 292,08 , angle: -73
+EnemyBot: 410,38, 236,45
+AngleToEnemy: -96,0031084065909
+Between angle: -23,0031084065909
+Command
+{
+  "cmdId": 50,
+  "bots": [
+    {
+      "id": 1,
+      "x": 361.46,
+      "y": 112.24,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 371.7,
+      "y": 216.48,
+      "angle": 22.306740786369467,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 452.23,
+      "y": 233.66,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 416.23,
+      "y": 292.08,
+      "angle": -73.0,
+      "speed": 90.0,
+      "cmd": "brake"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 6946,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 363.62,
+          "y": 112.42,
+          "angle": 31.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 373.87,
+          "y": 216.79,
+          "angle": 27.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 466.37,
+          "y": 239.02,
+          "angle": 32.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 428.65,
+          "y": 252.68,
+          "angle": -146.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 358.34,
+          "y": 266.4,
+          "angle": -39.0,
+          "speed": 30.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 50
+}
+MyBot: 363,62, 112,42 , angle: 31
+EnemyBot: 358,34, 266,4
+AngleToEnemy: 91,9639123879206
+Between angle: 60,9639123879206
+MyBot: 373,87, 216,79 , angle: 27
+EnemyBot: 358,34, 266,4
+AngleToEnemy: 107,382297416228
+Between angle: 80,3822974162282
+MyBot: 466,37, 239,02 , angle: 32
+EnemyBot: 358,34, 266,4
+AngleToEnemy: 165,777966733907
+Between angle: 133,777966733907
+MyBot: 428,65, 252,68 , angle: -146
+EnemyBot: 358,34, 266,4
+AngleToEnemy: 168,958293953626
+Between angle: 314,958293953626
+Command
+{
+  "cmdId": 51,
+  "bots": [
+    {
+      "id": 1,
+      "x": 363.62,
+      "y": 112.42,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 373.87,
+      "y": 216.79,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 466.37,
+      "y": 239.02,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 428.65,
+      "y": 252.68,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
+GameUpdate
+{
+  "time": 7163,
+  "players": [
+    {
+      "nickname": "my.s",
+      "asset": null,
+      "bots": [
+        {
+          "id": 1,
+          "x": 365.38,
+          "y": 113.65,
+          "angle": 61.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 3,
+          "x": 375.7,
+          "y": 217.9,
+          "angle": 57.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 4,
+          "x": 468.11,
+          "y": 240.28,
+          "angle": 62.0,
+          "speed": 10.0,
+          "cmd": null
+        },
+        {
+          "id": 5,
+          "x": 426.95,
+          "y": 251.36,
+          "angle": -116.0,
+          "speed": 10.0,
+          "cmd": null
+        }
+      ]
+    },
+    {
+      "nickname": "Jurdo",
+      "asset": null,
+      "bots": [
+        {
+          "id": 6,
+          "x": 363.49,
+          "y": 262.38,
+          "angle": -24.0,
+          "speed": 30.0,
+          "cmd": null
+        }
+      ]
+    }
+  ],
+  "lastCmdId": 51
+}
+MyBot: 365,38, 113,65 , angle: 61
+EnemyBot: 363,49, 262,38
+AngleToEnemy: 90,7280521408173
+Between angle: 29,7280521408173
+MyBot: 375,7, 217,9 , angle: 57
+EnemyBot: 363,49, 262,38
+AngleToEnemy: 105,349901617825
+Between angle: 48,3499016178251
+MyBot: 468,11, 240,28 , angle: 62
+EnemyBot: 363,49, 262,38
+AngleToEnemy: 168,072154609457
+Between angle: 106,072154609457
+MyBot: 426,95, 251,36 , angle: -116
+EnemyBot: 363,49, 262,38
+AngleToEnemy: 170,148672657192
+Between angle: 286,148672657192
+Command
+{
+  "cmdId": 52,
+  "bots": [
+    {
+      "id": 1,
+      "x": 365.38,
+      "y": 113.65,
+      "angle": 29.72805214081734,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 3,
+      "x": 375.7,
+      "y": 217.9,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 4,
+      "x": 468.11,
+      "y": 240.28,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    },
+    {
+      "id": 5,
+      "x": 426.95,
+      "y": 251.36,
+      "angle": 30.0,
+      "speed": 10.0,
+      "cmd": "steer"
+    }
+  ]
+}
